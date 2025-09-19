@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="icons">
+      <UniqueIdentifier>{67132214-b60e-4ad1-9529-b17c0935bb3d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="SWE_App.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\0Icon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\tanIcon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\1Icon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\2Icon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\3Icon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\4Icon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\5Icon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\6Icon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\7Icon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\8Icon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\9Icon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\AddIcon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\clearIcon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\cosIcon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\decimalIcon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\deleteIcon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\divideIcon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\equalsIcon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\modIcon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\multiplyIcon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\negativeIcon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\sinIcon.xpm">
+      <Filter>icons</Filter>
+    </None>
+    <None Include="..\..\..\..\Desktop\Calculator Icons\subtractIcon.xpm">
+      <Filter>icons</Filter>
+    </None>
+  </ItemGroup>
+</Project>
